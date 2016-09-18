@@ -1,0 +1,26 @@
+{
+  "name": "smartstudy-weixin-service",
+  "description": "smartstudy-weixin-service",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "co": "^4.6.0",
+    "compression": "^1.5.2",
+    "connect-timeout": "^1.6.2",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "fase": "0.0.3",
+    "hiredis": "^0.4.0",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "mysql": "^2.8.0",
+    "redis": "^0.12.1",
+    "request": "^2.60.0",
+    "sequelize": "^3.5.1",
+    "sha1": "^1.1.1",
+    "thunkify-wrap": "^1.0.4",
+    "underscore": "^1.8.3",
+    "validator": "^4.0.2",
+    "wechat": "^2.0.1",
+    "wechat-toolkit": "^0.2.15"
+  }
+}
